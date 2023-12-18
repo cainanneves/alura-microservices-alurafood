@@ -1,0 +1,5 @@
+./target
+./.idea
+./docker-compose.yml
+./Dockerfile
+./Help.md
